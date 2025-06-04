@@ -27,8 +27,8 @@ This project implements basic arithmetic operations (addition, subtraction, mult
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/bigint-1024bit-c.git
-cd bigint-1024bit-c
+git clone https://github.com/Abhiram163/1024-bit-Big-Integer-Arithmetic
+cd 1024-bit-Big-Integer-Arithmetic
 ```
 
 ### 2. Compile
